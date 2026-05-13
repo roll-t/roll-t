@@ -1,15 +1,99 @@
-<h1 align="center">Hi 👋, I'm Phuoc Truong</h1>
-<h3 align="center">A passionate Mobile developer from Viet Nam</h3>
+# Hi there! 👋 I'm Pham Phuoc Truong
 
-- 💬 Ask me about **Next.js, Flutter, Java Spring and PHP**
-
-- 📫 How to reach me **phuoctruong727@gmail.com**
-
-- ⚡ Fun fact **Code, Game, Music**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=24&pause=1000&color=FF4D4D&center=true&vCenter=true&width=600&lines=Dedicated+Flutter+Developer;Building+High-Performance+Mobile+Apps;Clean+Architecture+%26+Scalable+Solutions" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:phuoctruong727@gmail.com"><img src="https://img.shields.io/badge/Email-phuoctruong727%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/Location-Can%20Tho%2C%20Vietnam-00a86b?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
+
+---
+
+### 💫 About Me
+
+I'm a **Mobile Developer** with a robust foundation in building high-performance, scalable cross-platform applications. I specialize in **Flutter** and have a proven track record of taking complex product requirements and turning them into fluid, intuitive, and secure digital experiences.
+
+- 🚀 Deeply interested in **Software Architecture**, **Performance Optimization**, and **Cybersecurity**.
+- 🛠️ Highly experienced in orchestrating enterprise-grade Flutter applications with **60+ screen modules**.
+- 💬 Ask me about: **Flutter, Clean Architecture, Video HLS Streaming & Caching, Network Resiliency, Multi-Flavoring, and GetX**.
+- ⚡ Fun fact: I love blending technical challenges with elegant design. Outside coding, you'll find me playing games 🎮 or listening to music 🎵.
+
+---
+
+### 🚀 Featured Projects
+
+#### 📱 [RealJobs Ecosystem](https://github.com/)
+*A comprehensive, multi-role mobile ecosystem bridging Candidates, Employers, and Universities.*
+- Built a modular architecture handling **60+ screens** seamlessly using **Clean Architecture & GetX**.
+- Fully automated **Multi-Flavoring** (Dev, STG, Test, Prod) via flutter_flavorizr.
+- Designed high **Network Resiliency** featuring custom AuthInterceptors + connectivity_plus and API Payload Signatures.
+
+#### 🎥 [CLICK-Ed](https://github.com/)
+*Multi-channel educational platform integrated with an ultra-optimized TikTok-like short-video delivery engine.*
+- Engineered an on-device **Local HTTP Proxy Server** using `shelf` for CDN Token Injection & Segment Caching.
+- Built a custom **Video Player Pool Manager** via GetX with active memory recycling, resolving UI jank.
+- Developed dynamic Preload Orchestration and Network-Aware Adaptive Bitrate (ABR) selection.
+
+#### 🏦 [MyDTU Mobile](https://github.com/)
+*Academic Portal serving tens of thousands of Duy Tan University students & faculty members.*
+- Enforced robust APIs security with **Triple DES (3DES)** and **MD5 Signature Header Tokens**.
+- Designed a Zero-Lag Local Search Engine (Diacritics Removal + 300ms Debouncing).
+- Integrated automated complex form wizards and multi-environment synchronization.
+
+#### 🔖 [Linkeep](https://github.com/)
+*Premium, Offline-first "Digital Curator" designed for managing and securing web links.*
+- Achieved **0ms UI latency** through a custom **2-layer Hybrid Cache** (SQLite + In-Memory Reactive).
+- Developed a highly resilient queue-based background synchronization service.
+- Integrated 2FA / **Biometric authentication** (FaceID/Fingerprint) and JS-injected Webview Ad-Blockers.
+
+---
+
+### 🛠️ Languages and Tools
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h4>💻 Languages</h4>
+      <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/></a>
+      <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
+      <a href="https://java.com"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/></a>
+      <a href="https://typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS"/></a>
+      <a href="https://php.net"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/></a>
+    </td>
+    <td valign="top" width="33%">
+      <h4>🚀 Frameworks</h4>
+      <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/></a>
+      <a href="https://developer.android.com"><img src="https://img.shields.io/badge/Android%20Native-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/></a>
+      <a href="https://reactjs.org"><img src="https://img.shields.io/badge/React%20%2F%20Next.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/></a>
+      <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring"/></a>
+    </td>
+    <td valign="top" width="33%">
+      <h4>⚙️ Infrastructure & Tools</h4>
+      <a href="https://firebase.google.com"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/></a>
+      <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/></a>
+      <a href="https://docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></a>
+      <a href="https://figma.com"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/></a>
+      <a href="https://postman.com"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/></a>
+      <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Github Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Phuoc-Truong&show_icons=true&theme=radical&rank_icon=github" alt="Phuoc-Truong's GitHub stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phuoc-Truong&layout=compact&theme=radical" alt="Top Langs" height="180px"/>
+</p>
+
+---
+
+<p align="center">
+  ✨ <i>"Turning complex application challenges into high-performance, production-ready realities."</i> ✨
+</p>
